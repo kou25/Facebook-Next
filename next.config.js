@@ -1,0 +1,9 @@
+module.exports={
+    images:{
+        domains:[
+            "tinyurl.com",
+            "platform-lookaside.fbsbx.com",
+            "firebasestorage.googleapis.com",
+        ]
+    }
+}
