@@ -21,7 +21,7 @@ FACEBOOK_CLIENT_ID=facebok client id from developer facebook account
 FACEBOOK_CLIENT_SECRET=facebok secret id from developer facebook account
 
 
-NEXTAUTH_URL=ur run url (eg. http://localhost:3000)
+NEXTAUTH_URL= app url (eg. http://localhost:3000)
 
 
 
